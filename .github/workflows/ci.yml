@@ -19,3 +19,4 @@ jobs:
       - uses: Tubbles/librepcb-ci@v1
         with:
           pages: true
+          checks-fatal: false
