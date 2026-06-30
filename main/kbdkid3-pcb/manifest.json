@@ -79,21 +79,26 @@
       "category": "pdf"
     },
     {
+      "path": "kbdkid3_v1_Rendering.pdf",
+      "size": 731928,
+      "category": "pdf"
+    },
+    {
       "path": "kbdkid3_v1_Schematic.pdf",
-      "size": 128983,
+      "size": 128898,
       "category": "pdf"
     },
     {
       "path": "kbdkid3_v1.lppz",
-      "size": 3814499,
+      "size": 4527701,
       "category": "archive"
     },
     {
       "path": "kbdkid3_v1.zip",
-      "size": 284296,
+      "size": 284286,
       "category": "archive"
     }
   ],
   "zip": "kbdkid3-pcb.zip",
-  "generatedAt": "2026-06-30T21:48:09.464Z"
+  "generatedAt": "2026-06-30T21:54:54.862Z"
 }
