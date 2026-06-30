@@ -1,0 +1,99 @@
+{
+  "id": "kbdkid3-pcb",
+  "name": "kbdkid3-pcb",
+  "source": ".",
+  "files": [
+    {
+      "path": "assembly/kbdkid3_v1_BOM_Std.csv",
+      "size": 1295,
+      "category": "bom"
+    },
+    {
+      "path": "assembly/kbdkid3_v1_PnP_Std_BOT.csv",
+      "size": 8377,
+      "category": "pnp"
+    },
+    {
+      "path": "assembly/kbdkid3_v1_PnP_Std_TOP.csv",
+      "size": 8119,
+      "category": "pnp"
+    },
+    {
+      "path": "gerber/kbdkid3_v1_COPPER-BOTTOM.gbr",
+      "size": 69249,
+      "category": "gerber"
+    },
+    {
+      "path": "gerber/kbdkid3_v1_COPPER-IN1.gbr",
+      "size": 10820,
+      "category": "gerber"
+    },
+    {
+      "path": "gerber/kbdkid3_v1_COPPER-IN2.gbr",
+      "size": 594777,
+      "category": "gerber"
+    },
+    {
+      "path": "gerber/kbdkid3_v1_COPPER-TOP.gbr",
+      "size": 64125,
+      "category": "gerber"
+    },
+    {
+      "path": "gerber/kbdkid3_v1_DRILLS-NPTH.drl",
+      "size": 5896,
+      "category": "drill"
+    },
+    {
+      "path": "gerber/kbdkid3_v1_DRILLS-PTH.drl",
+      "size": 4251,
+      "category": "drill"
+    },
+    {
+      "path": "gerber/kbdkid3_v1_OUTLINES.gbr",
+      "size": 2216,
+      "category": "gerber"
+    },
+    {
+      "path": "gerber/kbdkid3_v1_SILKSCREEN-BOTTOM.gbr",
+      "size": 173383,
+      "category": "gerber"
+    },
+    {
+      "path": "gerber/kbdkid3_v1_SILKSCREEN-TOP.gbr",
+      "size": 175694,
+      "category": "gerber"
+    },
+    {
+      "path": "gerber/kbdkid3_v1_SOLDERMASK-BOTTOM.gbr",
+      "size": 36311,
+      "category": "gerber"
+    },
+    {
+      "path": "gerber/kbdkid3_v1_SOLDERMASK-TOP.gbr",
+      "size": 36259,
+      "category": "gerber"
+    },
+    {
+      "path": "kbdkid3_v1_Assembly.pdf",
+      "size": 2728112,
+      "category": "pdf"
+    },
+    {
+      "path": "kbdkid3_v1_Schematic.pdf",
+      "size": 128983,
+      "category": "pdf"
+    },
+    {
+      "path": "kbdkid3_v1.lppz",
+      "size": 3814499,
+      "category": "archive"
+    },
+    {
+      "path": "kbdkid3_v1.zip",
+      "size": 284296,
+      "category": "archive"
+    }
+  ],
+  "zip": "kbdkid3-pcb.zip",
+  "generatedAt": "2026-06-30T21:48:09.464Z"
+}
